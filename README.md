@@ -123,6 +123,8 @@ Data Loaded to Warehouse:
     
 -   Make it available to 100+ people
     -   We can set the concurrency limit for your Amazon Redshift cluster. While the concurrency limit is 50 parallel queries for a single period of time, this is on a per cluster basis, meaning you can launch as many clusters as fit for you business.
+ -
+ -
  
 
 
